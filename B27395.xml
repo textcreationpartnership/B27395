@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevvs from Tybvrn, or, a full and true relation of the confession and execution of John Rendor Charles Casby, VVilliam Pungly, Nathaniel VVarden, Henry Milbourn, Francis Bennet, Ellen Bayly, James VVoodman. All which were executed on Wednesday the 16. of this instant September 1674.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27395</idno><idno type="EEBO-CITATION">99828584</idno>
+  <idno type="VID">173140</idno>
+  <idno type="EEBO-PROQUEST">2240883497</idno>
+  
+            <idno type="STC">Wing N1024</idno>
+            <idno type="STC">ESTC R216867</idno>
+            <idno type="PROQUEST">99828584</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828584e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27395)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173140)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1955:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevvs from Tybvrn, or, a full and true relation of the confession and execution of John Rendor Charles Casby, VVilliam Pungly, Nathaniel VVarden, Henry Milbourn, Francis Bennet, Ellen Bayly, James VVoodman. All which were executed on Wednesday the 16. of this instant September 1674.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 3 reads: News from Nevvgate. Or The confession of those that were executed.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Trials --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173140:1"/>
+            <p>NEVVS FROM TYBVRN, Or, a Full and True RELATION OF THE CONFESSION and EXECUTION OF
+<list>
+                  <item>John Rendor,</item>
+                  <item>Charles Casby,</item>
+                  <item>VVilliam Pungly,</item>
+                  <item>Nathaniel VVarden,</item>
+                  <item>Henry Milbourn,</item>
+                  <item>Francis Bennet,</item>
+                  <item>Ellen Bayly,</item>
+                  <item>James VVoodman.</item>
+               </list>
+            </p>
+            <p>All which were Executed on <hi>Wednesday</hi> the 16. of this Instant <hi>September</hi> 1674.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>D. M.</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173140:2"/>
+            <pb n="1" facs="tcp:173140:2"/>
+            <head>NEWS from NEVVGATE. OR The Confession of those that were Execu<g ref="char:EOLhyphen"/>ted.</head>
+            <p>THe dying close of an ill led Life, is well worthy the most serious observations for then commonly the powers of a rational Soul; that have all along been suppressed in its actings by the impetuous hurry of vitious and debauched prin<g ref="char:EOLhyphen"/>ciples, that have filled up the volume of their Lives, with nothing but repeated Acts of lewdness and dis<g ref="char:EOLhyphen"/>orders, yet then when the harangue of their Extrava<g ref="char:EOLhyphen"/>gances have brought them to that fatal point, between the reflection of their past, but dear bought pleasures, and the prospect of that near and dreadful account that <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hey are going to give to the Judge of Heaven and Earth, of their impieties.</p>
+            <pb n="2" facs="tcp:173140:3"/>
+            <p>Then I say the Soul resumes its power of rational actings; and then the refl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctive and discursive faculties will exert their powers in a more regular way of ap<g ref="char:EOLhyphen"/>prehension, and will give their just and due sentiments of their profligate actions which formerly their benum<g ref="char:EOLhyphen"/>med Consciences took but little sense of, and from their own dear experience will inform the world, how v<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in and fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lish their courses were that should t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmi<g ref="char:EOLhyphen"/>nate their pleasurable Lives in such dreadful and lamen<g ref="char:EOLhyphen"/>table Periods; And therefore possible it is that the deaths of such men, when awakened to a Serious sence of their condition, may recompence something for the Evil of their Lives, whereby they seduced so many into wickedness by their Example, thus a serious an<g ref="char:EOLhyphen"/>imadversion of the last carriage and behaviour of such dying Malefactors, may be effectual to convert men from those destructive ways, that they see in them to be concluded with so lamentable a Close:</p>
+            <p>You have been already presented with the Trial and Condemnation of one and twenty Malefactors, who this last Sessions had the Sentence of Death pass'd up<g ref="char:EOLhyphen"/>on them, where some are repriev'd, and the rest are Executed this VVednesday the 17th. <hi>September</hi> instant. It is that priviledge that the mercy of our Christian Laws do allow to persons in their conditions, that after judgment hath passed upon their bodies, some care should be taken for the good of their immortal souls; nor could the greatest Charity exert it self in more needful offices than to be helpful to such miserable crea<g ref="char:EOLhyphen"/>tures in their last exigencies under those pungent re<g ref="char:EOLhyphen"/>morses
+<pb n="3" facs="tcp:173140:3"/> and confused agonies, that the conscience of their past wickedness, and the sense of an approaching judgment must needs leave them: to this end is the Or<g ref="char:EOLhyphen"/>dinary deputed, to deal with them in their last conflict with the King of Terrors; and whose wholsome ad<g ref="char:EOLhyphen"/>vice is to be to them as <hi>Postrema Tabula post Naufragium,</hi> the last help of their shipwrack'd lives. This Gentle<g ref="char:EOLhyphen"/>man, with other Ministers that came in officiously to give their assistance in this last work, were frequently with the Prisoners during the space between their Con<g ref="char:EOLhyphen"/>demnation and Execution; and, as most sutable to their present condition, did chiefly labour to make them ap<g ref="char:EOLhyphen"/>prehensive of the miserable account they stood in to<g ref="char:EOLhyphen"/>wards their offended Maker, whose glorious Name they had dishonoured, and whose Laws they had violated by their nefandous crimes; and how necessary it was in order to obtaining peace and absolution from him, and as they tendred their everlasting welfare, that they should now unburden their Consciences in a sincere and open Confession of all that wickedness that they had been guilty of, and give glory to God by so doing; that besides these more publick crimes for which they then stood condemned; they should faithfully discharge their Consciences of any other wickedness or crime which they might know themselves to have been guilty of in order to their establishment of a well-grounded peace and comfort to themselves.</p>
+            <p>They seemed all generally apprehensive of the im<g ref="char:EOLhyphen"/>portancy of these counsels, and did accordingly manifest
+<pb n="2" facs="tcp:173140:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:173140:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:173140:5"/> the expressions of true penitent souls, in hearty bewail<g ref="char:EOLhyphen"/>ing of their grievous offences, and earnestly desiring the Prayers of all that should understand their condition to be put up to the Throne of Grace for mercy for them.</p>
+            <p>Particularly <hi>John Rendor,</hi> the person that strangled Mr. <hi>Blucks</hi> Servant, seemed deeply sensible of that horrid blood-guiltiness that lay upon him, in taking away the Life of that poor VVoman, who had been so kind and hospitable to him; He confest that the killing motive to that horrid Action was his lucre of getting the goods that were left in her custody; And there<g ref="char:EOLhyphen"/>fore warned all persons, by his Example, to set timely bounds to their ungovernable desires after unlawful gain, that when once men begin to covet their neigh<g ref="char:EOLhyphen"/>bours proprieties it is a ready inlet to all manner of impiety and nothing can be so deere to any one, not Life it selfe, but their greedy dispositions will be ready to Violate.</p>
+            <p>He confest the Justice of God in making him to bewray his own fact, and that after he had perpetrated the Murther, he was compelled, by the pungent Ex<g ref="char:EOLhyphen"/>citations of his own Conscience, to go back to the place where he did the Fact. and where he was taken.</p>
+            <p>The Women that Murthered their Children did in like manner, Caution all persons to beware of these secret ways of lust, which to palliate and hide from
+<pb n="5" facs="tcp:173140:5"/> others, would by their president, put them upon these unnatural Actions that would bring them to a more open shame.</p>
+            <p>They were all very penitent in their Confessions, and we may in Charity hope that though they have been justly condemned in this world to the destruction of their bodyes, that yet they may through Gods mercy be absolved in the other for the Salvation of their Souls.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
